@@ -1,3 +1,3 @@
 # branches-example
 
-this branch is main
+this branch is a brand new branch
